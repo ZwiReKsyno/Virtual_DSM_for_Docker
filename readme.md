@@ -1,7 +1,7 @@
 <h1 align="center">Виртуальный DSM для Docker<br />
 <div align="center">
 <img src="https://github.com/vdsm/virtual-dsm/raw/master/.github/screen.jpg" title="Screenshot" style="max-width:100%;" width="432" />
-
+<div align="center">
 
 ## Функции
 
