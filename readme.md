@@ -3,6 +3,15 @@
 <img src="https://github.com/vdsm/virtual-dsm/raw/master/.github/screen.jpg" title="Screenshot" style="max-width:100%;" width="432" />
 </div>
 <div align="center">
+<div align="center">
+
+[![Build]][build_url]
+[![Version]][tag_url]
+[![Size]][tag_url]
+[![Pulls]][hub_url]
+
+</div></h1>
+Virtual DSM in a docker container.
 
 ## Функции
 
